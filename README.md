@@ -1,4 +1,6 @@
-Quantum Technology Club
+(./img/quantum_logo.svg)
+
+## Quantum Technology Club
 
 https://quantumtech.club/
 
