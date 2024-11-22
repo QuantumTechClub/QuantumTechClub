@@ -1,4 +1,4 @@
-(./img/quantum_logo.svg)
+![Quantum Technology Club logo](./img/quantum_logo.svg)
 
 ## Quantum Technology Club
 
